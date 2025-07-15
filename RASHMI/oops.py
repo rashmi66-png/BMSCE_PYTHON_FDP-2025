@@ -4,3 +4,7 @@ class Hello:
 
 obj1 = Hello()
 obj1.printHello()
+
+
+obj2 = Hello()
+obj2.printHello()
